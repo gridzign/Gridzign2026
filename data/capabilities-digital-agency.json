@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Next.js & React",
+    "num": "/ 01",
+    "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+    "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
+  },
+  {
+    "title": "Flutter",
+    "num": "/ 02",
+    "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+    "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
+  },
+  {
+    "title": "WordPress & WooCommerce",
+    "num": "/ 03",
+    "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+    "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
+  },
+  {
+    "title": "Laravel & PHP",
+    "num": "/ 04",
+    "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+    "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
+  },
+  {
+    "title": "HTML, CSS & Modern Web Standards",
+    "num": "/ 05",
+    "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+    "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
+  }
+]
