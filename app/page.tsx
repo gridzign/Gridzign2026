@@ -2,9 +2,9 @@ import PreviewPage from "./preview/page";
 import { Metadata } from "next";
 export const metadata: Metadata = {
   title:
-    "Preview || Rayo - Digital Agency & Personal Portfolio React Nextjs Template",
+    "Gridzign",
   description:
-    "Rayo - Digital Agency & Personal Portfolio React Nextjs Template",
+    "Digital Agency",
 };
 export default function Home() {
   return (
